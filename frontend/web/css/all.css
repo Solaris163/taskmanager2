@@ -1,0 +1,49 @@
+.preview-container {
+    margin-bottom: 20px;
+    display: flex;
+    /*justify-content: space-between;*/
+    flex-wrap: wrap;
+    /*flex-direction: column;*/
+    /*height: 200px;*/
+}
+
+.preview {
+    border: 2px solid #FFa660;
+    border-radius: 6px;
+    background-color: #FFE8AC;
+    padding: 4px;
+    width: 300px;
+    margin-bottom: 20px;
+    margin-right: 80px;
+}
+
+.upload-picture {
+    border: 1px solid #999999;
+    border-radius: 4px;
+    margin-top: 10px;
+    width: 600px;
+    padding: 5px;
+}
+
+.upload-comment {
+    border: 1px solid #999999;
+    border-radius: 4px;
+    margin-top: 10px;
+    width: 600px;
+    padding: 5px;
+}
+
+.wrap > .container-card {
+    background-color: #FFE9B8;
+}
+
+.select-month {
+    border: 1px solid #999999;
+    border-radius: 4px;
+    margin-top: 10px;
+    width: 680px;
+    padding: 5px;
+    /*background-color: #FFE9B8;*/
+}
+
+
